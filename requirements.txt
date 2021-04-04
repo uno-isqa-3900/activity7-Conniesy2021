@@ -1,0 +1,6 @@
+#Dev
+# Add any libraries that must first be installed (Ex: pyperclip or pygame)
+# pyperclip
+# pygame
+
+csv
